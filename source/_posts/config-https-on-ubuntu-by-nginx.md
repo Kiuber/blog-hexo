@@ -5,7 +5,7 @@ tags:
   - Ubuntu
   - https
 date: 2017-11-02 19:25:05
-categories: https
+categories: Https
 ---
 
 {% cq %}sudo nginx -s reload{% endcq %}

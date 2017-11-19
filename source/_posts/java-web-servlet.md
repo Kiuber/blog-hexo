@@ -2,7 +2,7 @@
 title: JAVA-WEB之Servlet
 tags:
   - Servlet
-categories: JAVA WEB
+categories: Java Web
 date: 2017-03-21 17:39:00
 ---
 

@@ -2,7 +2,6 @@
 title: awesome-android-tips
 tags:
   - Android
-categories: 整理
 date: 2016-05-02 19:59:25
 ---
 

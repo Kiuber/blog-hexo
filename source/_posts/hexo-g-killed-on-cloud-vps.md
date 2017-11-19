@@ -4,7 +4,7 @@ tags:
   - hexo
   - centos
   - linux
-categories: hexo
+categories: Hexo
 date: 2017-11-01 20:55:04
 ---
 

@@ -2,7 +2,7 @@
 title: 正则复习
 tags:
   - 正则
-categories: JAVA
+categories: Java
 date: 2017-04-12 17:34:30
 ---
 

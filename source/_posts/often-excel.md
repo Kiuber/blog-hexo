@@ -2,8 +2,7 @@
 title: Excel常用功能
 tags:
   - 统计
-categories:
-  - Excel
+categories: Excel
 date: 2016-10-25 21:42:21
 ---
 

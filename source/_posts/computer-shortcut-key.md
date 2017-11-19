@@ -2,7 +2,6 @@
 title: 电脑方面的快捷键
 tags:
   - 快捷键
-categories: 电脑
 date: 2016-04-24 12:45:47
 ---
 
