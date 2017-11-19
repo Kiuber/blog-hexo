@@ -3,7 +3,6 @@ title: Samba的简单使用
 tags:
   - Samba
 categories: Linux
-abbrlink: 1053f1a2
 date: 2017-05-10 14:37:40
 ---
 

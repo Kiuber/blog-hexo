@@ -3,7 +3,6 @@ title: 搭建本博客所看的网站及知识
 tags:
   - 搭建博客
 categories: Hexo
-abbrlink: 21bf3f13
 date: 2016-04-24 11:30:53
 ---
 

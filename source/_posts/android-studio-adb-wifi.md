@@ -4,7 +4,6 @@ tags:
   - ADB WIFI
   - Android Studio
 categories: Android
-abbrlink: 4c454898
 date: 2016-06-11 12:12:44
 ---
 

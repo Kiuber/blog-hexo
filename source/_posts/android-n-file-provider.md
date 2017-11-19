@@ -2,7 +2,6 @@
 title: 安卓7.0内容提供者变化
 tags:
   - Provider
-abbrlink: 13409
 date: 2017-10-26 20:19:04
 categories: Android
 ---

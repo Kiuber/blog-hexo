@@ -3,7 +3,6 @@ title: 微信小程序开发小记
 tags:
   - 山东微拼
 categories: Wechat App
-abbrlink: e55c06f7
 date: 2017-03-12 10:50:20
 ---
 

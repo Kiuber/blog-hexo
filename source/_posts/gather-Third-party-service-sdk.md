@@ -7,7 +7,6 @@ tags:
   - 短信验证码
   - 广告
 categories: Android
-abbrlink: 662071b8
 date: 2016-06-01 10:45:15
 ---
 

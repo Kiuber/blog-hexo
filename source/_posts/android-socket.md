@@ -3,7 +3,6 @@ title: 安卓Socket编程
 tags:
   - Socket
 categories: Android
-abbrlink: 269bd368
 date: 2017-03-23 17:31:37
 ---
 

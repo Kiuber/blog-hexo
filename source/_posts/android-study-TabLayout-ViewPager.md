@@ -3,7 +3,6 @@ title: TabLayout+ViewPager实现选项卡滑动
 tags:
   - 选项卡
 categories: Android
-abbrlink: 9a58e972
 date: 2016-04-27 20:14:26
 ---
 

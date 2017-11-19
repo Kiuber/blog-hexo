@@ -3,7 +3,6 @@ title: awesome-android-tips
 tags:
   - Android
 categories: 整理
-abbrlink: f95b00ba
 date: 2016-05-02 19:59:25
 ---
 

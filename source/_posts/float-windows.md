@@ -3,7 +3,6 @@ title: 备忘悬浮
 tags:
   - 备忘悬浮
 categories: Android
-abbrlink: 44fb9401
 date: 2016-04-23 22:03:29
 ---
 

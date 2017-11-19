@@ -3,7 +3,6 @@ title: 微信小程序访问httpsAPI
 tags:
   - https
 categories: Wechat App
-abbrlink: 827cc1d0
 date: 2017-03-27 20:51:36
 ---
 

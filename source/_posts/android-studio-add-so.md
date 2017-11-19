@@ -4,7 +4,6 @@ tags:
   - .so
   - Bmob
 categories: Android
-abbrlink: b4825327
 date: 2016-05-24 09:30:30
 ---
 

@@ -3,7 +3,6 @@ title: 物品竞拍流程
 tags:
   - 拍卖
 categories: Android
-abbrlink: 3b3dbca9
 date: 2016-09-01 23:51:20
 ---
 

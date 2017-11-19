@@ -3,7 +3,6 @@ title: ShareMy
 tags:
   - ShareMy
 categories: Android
-abbrlink: 2c806692
 date: 2016-04-23 18:07:07
 ---
 

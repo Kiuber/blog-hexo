@@ -3,7 +3,6 @@ title: 'c#+sql'
 tags:
   - SQL
 categories: CSharp
-abbrlink: ea671271
 date: 2016-04-28 22:05:37
 ---
 

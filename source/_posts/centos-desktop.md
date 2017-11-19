@@ -3,7 +3,6 @@ title: Centos 7 安装图形化界面并实现远程控制
 tags:
   - 远程连接
 categories: Linux
-abbrlink: c9d9f67f
 date: 2017-03-13 14:40:06
 ---
 

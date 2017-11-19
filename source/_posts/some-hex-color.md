@@ -3,7 +3,6 @@ title: 一些十六进制的颜色
 tags:
   - 常用颜色
 categories: 整理
-abbrlink: e569fa5
 date: 2016-04-27 13:54:26
 ---
 

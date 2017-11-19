@@ -4,7 +4,6 @@ tags:
   - MySql
   - Navicat
 categories: Linux
-abbrlink: 34edd51d
 date: 2016-09-22 20:18:13
 ---
 
