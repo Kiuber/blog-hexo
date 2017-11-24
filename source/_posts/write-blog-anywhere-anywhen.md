@@ -3,7 +3,7 @@ title: 我的博客同步方案
 tags:
   - hexo
 date: 2017-11-24 14:17:16
-categories: hexo
+categories: Hexo
 ---
 
 {% cq %}![solution](http://iss.kiuber.me/blog/hexo/my_blog_sync_solution.png){% endcq %}
