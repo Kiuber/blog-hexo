@@ -85,6 +85,7 @@ menu:
   categories: /categories/ || th
   archives: /archives/ || archive
   resume: http://resume.kiuber.me || file-text
+  master: /master/ || star
   about: about || user
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
