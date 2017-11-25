@@ -41,5 +41,7 @@ categories: Hexo
 
 ### 可以搞一搞
 程序员不甘于进行重复工作，于是就想办法解（tou）决（lan）。
-写个 `bash` 脚本，每天某个时间定时 `git pull` ，文件发生更改后 `hexo g` ，并将文件复制到 `nginx` 对应文件夹内。
-这样写好文章只 push 就 OK 了，爽歪歪。
++ ~~写个 `bash` 脚本，每天某个时间定时 `git pull` ，文件发生更改后 `hexo g` ，并将文件复制到 `nginx` 对应文件夹内。
+这样写好文章只 push 就 OK 了，爽歪歪。~~ 已完成
+
++ 将博客文件自动 `push` 到 `github` 。
