@@ -16,7 +16,7 @@ categories: Linux
 > https://blogs.gnome.org/raywang/2007/01/29/%E9%AB%98%E6%95%88%E7%8E%87%E7%BC%96%E8%BE%91%E5%99%A8-vim%EF%BC%8D%E6%93%8D%E4%BD%9C%E7%AF%87%EF%BC%8C%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88-vim-%E6%96%B0%E6%89%8B/
 
 我认为 vim 的强大之处在于拥有多个命令，并且将命令组合起来使用，效率贼高。
-查看帮助 :help command ，下面是我在学习过程中简单总结的。
+查看帮助 :help command ，下面是我在通过 vimtutor 学习过程中在其基础上根据命令分类的。
 
 ### 游标移动
 * 向左、向右移动 n  h、l ([number] motion)
