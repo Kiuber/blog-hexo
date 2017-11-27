@@ -3,6 +3,9 @@
 # add to timing tasks before use by the following command
 # crontab -e
 
+# cd blog-hexo path
+cd ~/git/github/blog-hexo
+
 # pull latest code
 git pull
 
