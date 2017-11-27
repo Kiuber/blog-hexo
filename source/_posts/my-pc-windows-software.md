@@ -6,7 +6,7 @@ date: 2017-11-24 20:35:24
 categories: 整理
 ---
 
-{% cq %}![computer](http://blog-1251260269.picsh.myqcloud.com/blog/normal/caspar-rubin-220711.jpg!reduce){% endcq %}
+{% cq %}![computer](http://iss.kiuber.me/blog/normal/caspar-rubin-220711.jpg!reduce){% endcq %}
 
 <!-- more -->
 
