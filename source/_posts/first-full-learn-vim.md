@@ -6,7 +6,7 @@ date: 2017-11-19 12:29:17
 categories: Linux
 ---
 
-{% cq %}![vim](http://www.runoob.com/wp-content/uploads/2015/10/vi-vim-cheat-sheet-sch.gif){% endcq %}
+{% cq %}![vim](http://iss.kiuber.me/blog/vim/vi-vim-cheat-sheet-sch.gif){% endcq %}
 
 <!-- more -->
 
