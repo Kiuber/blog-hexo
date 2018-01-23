@@ -136,7 +136,7 @@ social_icons:
   transition: false
 
 # Blog rolls
-links_title: 小伙伴们
+links_title: Friends 
 #links_layout: block
 links_layout: inline
 links:
@@ -147,6 +147,7 @@ links:
   Jelly: http://blog.csdn.net/gz946
   Kit.Andrew.Lee: http://www.kitandrew.top/
   zhanxinxin: https://blog.luoxinxin.com.cn/ 
+  Dc: http://blog.codeseeker.me/ 
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
